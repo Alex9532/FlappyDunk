@@ -1,0 +1,21 @@
+﻿@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/heebo/v26/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSyccg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/heebo/v26/NGSpv5_NC0k9P_v6ZUCbLRAHxK1Euyyccg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'MuseoModerno';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/museomoderno/v27/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMohDuew.ttf) format('truetype');
+}

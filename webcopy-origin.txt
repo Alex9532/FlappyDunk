@@ -1,0 +1,42 @@
+Uri: https://flappydunk.com/wp-content/uploads/games/html5/F/Flappy Dunk (2)/Build/Flappy Dunk.wasm
+File Name: C:\Downloaded Web Sites\flappydunk.com\wp-content\uploads\games\html5\F\Flappy Dunk (2)\Build\Flappy Dunk.wasm
+Content Type: application/octet-stream
+
+javascript
+
+html5/F/Flappy Dunk (2)/logo.png
+File Name: C:\Downloaded Web Sites\flappydunk.com\wp-content\uploads\games\html5\F\Flappy Dunk (2)\logo.png
+Content Type: image/png
+
+Uri: https://flappydunk.com/wp-content/uploads/games/html5/F/Flappy Dunk (2)/TemplateData/favicon.ico
+File Name: C:\Downloaded Web Sites\flappydunk.com\wp-content\uploads\games\html5\F\Flappy Dunk (2)\TemplateData\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://flappydunk.com/wp-content/uploads/games/html5/F/Flappy Dunk (2)/TemplateData/fullscreen-button.png
+File Name: C:\Downloaded Web Sites\flappydunk.com\wp-content\uploads\games\html5\F\Flappy Dunk (2)\TemplateData\fullscreen-button.png
+Content Type: image/png
+
+Uri: https://flappydunk.com/wp-content/uploads/games/html5/F/Flappy Dunk (2)/TemplateData/style.css
+File Name: C:\Downloaded Web Sites\flappydunk.com\wp-content\uploads\games\html5\F\Flappy Dunk (2)\TemplateData\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Heebo:wght@200;500&display=swap
+File Name: C:\Downloaded Web Sites\flappydunk.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Heebo:wght@200;500&family=MuseoModerno:wght@600&display=swap
+File Name: C:\Downloaded Web Sites\flappydunk.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/heebo/v26/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSyccg.ttf
+File Name: C:\Downloaded Web Sites\flappydunk.com\s\heebo\v26\NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSyccg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v26/NGSpv5_NC0k9P_v6ZUCbLRAHxK1Euyyccg.ttf
+File Name: C:\Downloaded Web Sites\flappydunk.com\s\heebo\v26\NGSpv5_NC0k9P_v6ZUCbLRAHxK1Euyyccg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/museomoderno/v27/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMohDuew.ttf
+File Name: C:\Downloaded Web Sites\flappydunk.com\s\museomoderno\v27\zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMohDuew.ttf
+Content Type: font/ttf
+
